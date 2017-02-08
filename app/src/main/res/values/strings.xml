@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">eKiosk</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="homepage">Simple Kiosk </string>
+    <string name="ac_btn">Create Account</string>
+    <string name="fname">Enter First name</string>
+    <string name="lname">Enter last name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
